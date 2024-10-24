@@ -98,3 +98,72 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/YOUR_GITHUB_USERNAME/full-stack-internship-tasks.git
    cd full-stack-internship-tasks
+
+2. **Install dependencies:**
+   Navigate to the specific task folder and run:
+   ```bash
+   npm install
+   ```
+
+3. **Start the backend server:**
+   Ensure MongoDB is running and then start the backend:
+   ```bash
+   node server.js
+   ```
+
+4. **Start the frontend (React):**
+   Navigate to the frontend folder and run:
+   ```bash
+   npm start
+   ```
+
+5. **Access the application:**
+   Open your browser and go to:
+   ```bash
+   http://localhost:3000
+   ```
+
+---
+
+## Technologies Used
+
+- **Frontend**: React.js, Bootstrap, CSS, HTML5
+- **Backend**: Node.js, Express.js, MongoDB, Socket.io
+- **Authentication**: JWT (JSON Web Tokens)
+- **Real-Time Communication**: WebSocket, Socket.io
+- **Database**: MongoDB for data persistence and real-time message storage
+- **Tools**: Postman for API testing, Power BI for data visualization in Task 2.
+
+---
+
+## Project Directory Structure
+
+```bash
+├── Task1-Sorting-LinkedLists/
+│   ├── index.js
+│   └── README.md
+├── Task2-Employee-Management/
+│   ├── backend/
+│   ├── frontend/
+│   └── README.md
+├── Task3-Ecommerce-Platform/
+│   ├── backend/
+│   ├── frontend/
+│   └── README.md
+├── Task4-RealTime-Chat-App/
+│   ├── backend/
+│   ├── frontend/
+│   └── README.md
+└── README.md
+```
+
+---
+
+## Author
+
+**Akhil Kumar**  
+LinkedIn: [Akhil Kumar](https://www.linkedin.com/in/akhil7199/)  
+GitHub: [Akhil Kumar](https://github.com/akhil7199)  
+
+Feel free to explore the code and provide feedback or ask questions!
+```
