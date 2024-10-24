@@ -1,4 +1,4 @@
-# Full-Stack Web Development Internship - Task Series
+# Prodigy Infotech Full-Stack Web Development Internship - Task Series
 
 Welcome to the repository for the Full-Stack Web Development Internship tasks. This repository contains all the projects and assignments I completed during the internship, demonstrating my skills in both frontend and backend development.
 
